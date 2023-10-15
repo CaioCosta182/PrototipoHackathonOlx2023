@@ -1,0 +1,43 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #cfd4dd;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+section {
+    margin: 64px auto;
+    padding: 32px 56px 24px;
+    max-width: 466px;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF;
+}
+
+#container {
+    text-align: center;
+}
+
+.conta {
+    text-align: center;
+}
+
+input {
+    border-radius: 20px;
+    padding: 5px 80px;
+}
+
+button {
+    align-items: center;
+    padding: 5px 80px;
+    margin: 10px;
+    background-color: #f28417;
+    border: none;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}
